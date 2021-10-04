@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.33796296296296297" />
+        <entry key="core/src/main/res/drawable/bg_rounded_bottom_sheet.xml" value="0.33796296296296297" />
+        <entry key="core/src/main/res/layout/fragment_core_web_view.xml" value="0.3691123188405797" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK" />
+</project>

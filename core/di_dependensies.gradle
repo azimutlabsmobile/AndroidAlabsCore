@@ -1,0 +1,8 @@
+dependencies {
+    def koinVersion = versions.koinVersion
+    implementation "org.koin:koin-android:$koinVersion"
+    implementation "org.koin:koin-android-scope:$koinVersion"
+    implementation "org.koin:koin-android-viewmodel:$koinVersion"
+    implementation "org.koin:koin-android-ext:$koinVersion"
+    testImplementation "org.koin:koin-test:$koinVersion"
+}

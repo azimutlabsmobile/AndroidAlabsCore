@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8c3d7e9-af61-49c7-819d-b76971324341" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5_API_19" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="Kotlin Object" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.novoda</find>
+      <find>BuildConfig</find>
+      <find>clearDataAndRedirectLogin</find>
+      <find>titleTv</find>
+      <find>alpha</find>
+      <find>newCa</find>
+      <find>#1C1D21</find>
+      <find>&quot;###,###.00&quot;</find>
+      <find>невоз</find>
+      <find>Невозможно распарсить данные</find>
+      <find>error</find>
+      <find>mBlurInput</find>
+      <find>!!</find>
+      <find>Вы ввели неверный код-пароль</find>
+      <find>redirectToFragment</find>
+      <find>SHOW</find>
+      <find>theme</find>
+      <find>setThe</find>
+      <find>Configuration.UI_MODE_NIGHT_MASK</find>
+      <find>DARK</find>
+      <find>accept-language</find>
+      <find>/builds/kostya.sherba97/core/local.properties</find>
+      <find>kostya.sherba97</find>
+      <find>getUITheme</find>
+      <find>pixel</find>
+      <find>Устройство не поддерживает dark mode</find>
+      <find>saveFile</find>
+      <find>showActivityAndClearBackStack</find>
+      <find>CoreBot</find>
+      <find>showModuleActivityAndClearBackStackInEndOfSession</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/widget/blur/EmptyBlurImpl.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/widget/blur/SupportLibraryBlurImpl.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/widget/blur/AndroidXBlurImpl.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/widget/blur/AndroidStockBlurImpl.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/widget/layout/BlurLayout.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/os/StringUtils.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/viewModel/CoreAndroidLaunchViewModel.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/viewModel/CoreAndroidViewModel.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/domein/CoreLaunchUseCase.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/viewModel/ViewModelTest.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/viewModel/CoreLaunchViewModel.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/di/CoreModules.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/OkhttpExt.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/CoreAndroidViewModelExt.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/data/network/interceptors/OAuthInterceptor.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/callback/PermissionHandler.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/callback/ResultLiveDataHandler.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/dialogs/CoreDialogFragment.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/activities/CoreActivity.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/data/network/Status.kt" />
+        <option value="$PROJECT_DIR$/.ci-notify.sh" />
+        <option value="$PROJECT_DIR$/.gitlab-ci.yml" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/network/NetworkUtils.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/network/ApolloNetworkUtils.kt" />
+        <option value="$PROJECT_DIR$/core/src/test/java/com/kostynchikoff/core_application/extension/CoreViewModelExtTest.kt" />
+        <option value="$PROJECT_DIR$/core/src/test/java/com/kostynchikoff/core_application/utils/NetworkUtilsTest.kt" />
+        <option value="$PROJECT_DIR$/core/src/test/java/com/kostynchikoff/core_application/utils/ApolloNetworkUtilsTest.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/adapters/decorator/StartPaddingDecorator.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/recyclerview/BaseViewHolder.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/viewModel/CoreViewModel.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/CoreViewModelExt.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/recyclerview/viewHolder/BaseViewHolder.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/delegates/DarkThemeDelegate.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/recyclerview/viewHolder/CoreViewHolder.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/recyclerview/BaseAdapter.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/delegates/CoroutineDelegate.kt" />
+        <option value="$PROJECT_DIR$/core/src/test/java/com/kostynchikoff/core_application/viewModel/CoreLaunchViewModelTest.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/os/FileUtils.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/ContextExt.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/CollectionExt.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/widget/viewPagers/MatchParentViewPager.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/ViewExt.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/activities/CoreAuthorizedActivity.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/fragments/CoreFragment.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/ActivityExt.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/navigation/AuthNavHostFragment.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/res/values/attrs.xml" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/NavigationExt.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/navigation/AuthFragmentNavigator.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/navigation/AuthActivityNavigator.kt" />
+        <option value="$PROJECT_DIR$/core/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="57" />
+    <option name="y" value="80" />
+    <option name="width" value="1680" />
+    <option name="height" value="939" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MovenPublich" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MovenPublich" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MovenPublich" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MovenPublich" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MovenPublich" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MovenPublich" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MovenPublich" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MovenPublich" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MovenPublich" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MovenPublich" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MovenPublich" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MovenPublich" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MovenPublich" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MovenPublich" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kostynchikoff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MovenPublich" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MovenPublich" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kostynchikoff" type="462c0819:PsiDirectoryNode" />
+              <item name="core_application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MovenPublich" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MovenPublich" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kostynchikoff" type="462c0819:PsiDirectoryNode" />
+              <item name="core_application" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MovenPublich" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MovenPublich" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kostynchikoff" type="462c0819:PsiDirectoryNode" />
+              <item name="core_application" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="navigation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MovenPublich" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MovenPublich" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MovenPublich" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MovenPublich" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="Pixel_2_API_25_2 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="com.kostyanchikoff.movenpublich" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_25_2" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-06-17T15:13:55.847Z" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/core/src/test/java/com/kostynchikoff/core_application/utils" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.kostynchikoff.core_application.presentation.ui.recyclerview.viewHolder" />
+      <recent name="com.kostynchikoff.core_application.presentation.ui.widget.editText" />
+      <recent name="com.kostynchikoff.core_application.data.network.networkPrinter" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kostynchikoff.core_application.utils.os" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.kostynchikoff.core_application.utils.navigation" />
+      <recent name="com.kostynchikoff.core_application.data.network.networkPrinter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/blur" />
+      <recent name="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/multiAdapter" />
+      <recent name="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions" />
+      <recent name="$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/navigation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android JUnit.CoreLaunchViewModelTest">
+    <configuration name="CoreLaunchViewModelTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kostynchikoff.core_application.viewModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kostynchikoff.core_application.viewModel" />
+      <option name="MAIN_CLASS_NAME" value="com.kostynchikoff.core_application.viewModel.CoreLaunchViewModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoreLaunchViewModelTest.custom type error livedata launch viewModel" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kostynchikoff.core_application.viewModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kostynchikoff.core_application.viewModel" />
+      <option name="MAIN_CLASS_NAME" value="com.kostynchikoff.core_application.viewModel.CoreLaunchViewModelTest" />
+      <option name="METHOD_NAME" value="custom type error livedata launch viewModel" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoreLaunchViewModelTest.dispatcher IO test" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kostynchikoff.core_application.viewModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kostynchikoff.core_application.viewModel" />
+      <option name="MAIN_CLASS_NAME" value="com.kostynchikoff.core_application.viewModel.CoreLaunchViewModelTest" />
+      <option name="METHOD_NAME" value="dispatcher IO test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kostynchikoff.core_application.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kostynchikoff.core_application.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.kostynchikoff.core_application.utils.NetworkUtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkUtilsTest.safeApiCall IOException test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kostynchikoff.core_application.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kostynchikoff.core_application.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.kostynchikoff.core_application.utils.NetworkUtilsTest" />
+      <option name="METHOD_NAME" value="safeApiCall IOException test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.CoreLaunchViewModelTest" />
+        <item itemvalue="Android JUnit.CoreLaunchViewModelTest.dispatcher IO test" />
+        <item itemvalue="Android JUnit.CoreLaunchViewModelTest.custom type error livedata launch viewModel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8c3d7e9-af61-49c7-819d-b76971324341" name="Default Changelist" comment="" />
+      <created>1590734990048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590734990048</updated>
+    </task>
+    <task id="LOCAL-00021" summary="1. Добавлен coreDialogFragment">
+      <created>1592401313000</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1592401313000</updated>
+    </task>
+    <task id="LOCAL-00022" summary="1. Исправлен вывод ошибок и добавлено в CoreRoundedBottomSheetFragment">
+      <created>1592402789828</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1592402789828</updated>
+    </task>
+    <task id="LOCAL-00023" summary="1. Проверка darkMode в runtime">
+      <created>1592407227470</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1592407227470</updated>
+    </task>
+    <task id="LOCAL-00024" summary="1. Проверка darkMode в runtime">
+      <created>1592407253066</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1592407253067</updated>
+    </task>
+    <task id="LOCAL-00025" summary="1. Добавлен флаг для отключения функционала через coreBuilder">
+      <created>1592408110532</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1592408110532</updated>
+    </task>
+    <task id="LOCAL-00026" summary="1. Добавлен конструктор для стилей в coreBottomSheetDialog">
+      <created>1592471173899</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1592471173899</updated>
+    </task>
+    <task id="LOCAL-00027" summary="1. Исправлена ошибки в выводе ошобок по типу">
+      <created>1592472017086</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1592472017086</updated>
+    </task>
+    <task id="LOCAL-00028" summary="1. Исправлен float на dimension в RoundedButton">
+      <created>1592482591049</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1592482591049</updated>
+    </task>
+    <task id="LOCAL-00029" summary="1. Исправлен модификатор доступа observer-а вывода ошибок без типа в activity на protected&#10;2. изменен порядом вызова результата и скрытия лоадера в unwrap функции">
+      <created>1592980928339</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1592980928339</updated>
+    </task>
+    <task id="LOCAL-00030" summary="1. Добавлена обработка ошибок в CoreActivity&#10;2. Добавлены функции для нахождения BottomSheetDialogFragments&#10;3. Добавлена функция для извлечения Bitmap из Intent">
+      <created>1593084319720</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1593084319720</updated>
+    </task>
+    <task id="LOCAL-00031" summary="1. Добавлена функция позволяющая делиться файлами">
+      <created>1593162289008</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1593162289008</updated>
+    </task>
+    <task id="LOCAL-00032" summary="1. Добавлены операции для работы с BottomSheetDialog">
+      <created>1593165215552</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1593165215552</updated>
+    </task>
+    <task id="LOCAL-00033" summary="1. Переработка вывода ошибок">
+      <created>1593408807513</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1593408807513</updated>
+    </task>
+    <task id="LOCAL-00034" summary="1. смена версии">
+      <created>1593408850221</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1593408850221</updated>
+    </task>
+    <task id="LOCAL-00035" summary="1. Добавлен textWatcher для работы с числовыми значениями с двумя нулями&#10;2. Функция для формирования строки в числовое значение">
+      <created>1593422845826</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1593422845826</updated>
+    </task>
+    <task id="LOCAL-00036" summary="обновлена версия">
+      <created>1593422876000</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1593422876000</updated>
+    </task>
+    <task id="LOCAL-00037" summary="1. Перехватчик перехода назад для fragment-ов в navigation library для Fragment">
+      <created>1593427461405</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1593427461405</updated>
+    </task>
+    <task id="LOCAL-00038" summary="1. исправлены ошибки">
+      <created>1593428390905</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1593428390905</updated>
+    </task>
+    <task id="LOCAL-00039" summary="1. Добавлена поддержака маски номера телефона">
+      <created>1593432246650</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1593432246650</updated>
+    </task>
+    <task id="LOCAL-00040" summary="1. обнослена версия">
+      <created>1593432269303</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1593432269304</updated>
+    </task>
+    <task id="LOCAL-00041" summary="1. функция для открытие файла стандартными средствами приложения">
+      <created>1593506139022</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1593506139022</updated>
+    </task>
+    <task id="LOCAL-00042" summary="1. обновлена версия">
+      <created>1593506174373</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1593506174373</updated>
+    </task>
+    <task id="LOCAL-00043" summary="1. Обновлен OAuthInterceptor для автоматического добавление токена, если это не список исключений">
+      <created>1593606939849</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1593606939849</updated>
+    </task>
+    <task id="LOCAL-00044" summary="1. обновлена версия">
+      <created>1593606967851</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1593606967851</updated>
+    </task>
+    <task id="LOCAL-00045" summary="1. Добавлено поле для вывода ошибок">
+      <created>1593775912731</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1593775912731</updated>
+    </task>
+    <task id="LOCAL-00046" summary="1. Добавлена отправка событий из диалога во фрагмент и родительский диалог">
+      <created>1594013138166</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1594013138166</updated>
+    </task>
+    <task id="LOCAL-00047" summary="1.Добавлена навигатор для авторизационных фрагментов">
+      <created>1594127312530</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1594127312530</updated>
+    </task>
+    <task id="LOCAL-00048" summary="1. Добавлен multiTypeAdapter&#10;2. Добавлен новый formatter суммы">
+      <created>1594192894227</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1594192894227</updated>
+    </task>
+    <task id="LOCAL-00049" summary="1. Добавлен blur layout">
+      <created>1594222350341</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1594222350341</updated>
+    </task>
+    <task id="LOCAL-00050" summary="1. Исправлена ошибки nullPointer в формировании суммы">
+      <created>1594223240696</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1594223240696</updated>
+    </task>
+    <task id="LOCAL-00051" summary="1. Добавлена возможность использовать coroutine в useCase">
+      <created>1594564003820</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1594564003821</updated>
+    </task>
+    <task id="LOCAL-00052" summary="1. Исправлена отчистка backStack activity">
+      <created>1594619263599</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1594619263600</updated>
+    </task>
+    <task id="LOCAL-00053" summary="1. Исправлена отчистка backStack activity">
+      <created>1594619284770</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1594619284770</updated>
+    </task>
+    <task id="LOCAL-00054" summary="1. добавлен параметр для url">
+      <created>1594620983203</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1594620983203</updated>
+    </task>
+    <task id="LOCAL-00055" summary="1. исправлен пустой токен">
+      <created>1594624715948</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1594624715948</updated>
+    </task>
+    <task id="LOCAL-00056" summary="1. исправлен пустой токен">
+      <created>1594626778350</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1594626778350</updated>
+    </task>
+    <task id="LOCAL-00057" summary="1. Реализованы интерцепторы&#10;2. Добавлен sh script для бота&#10;3. Добавлена проверка darkMode">
+      <created>1594717705312</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1594717705312</updated>
+    </task>
+    <task id="LOCAL-00058" summary="1. исправлены pipeline">
+      <created>1594725374744</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1594725374744</updated>
+    </task>
+    <task id="LOCAL-00059" summary="1. исправлены pipeline">
+      <created>1594813350007</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1594813350007</updated>
+    </task>
+    <task id="LOCAL-00060" summary="fixup! 1. исправлены pipeline">
+      <created>1594814865250</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1594814865250</updated>
+    </task>
+    <task id="LOCAL-00061" summary="...">
+      <created>1594823385473</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1594823385474</updated>
+    </task>
+    <task id="LOCAL-00062" summary="...">
+      <created>1594823592000</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1594823592000</updated>
+    </task>
+    <task id="LOCAL-00063" summary="1. Исправлен краш когда устройство не поддерживает dark mode">
+      <created>1594978843752</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1594978843752</updated>
+    </task>
+    <task id="LOCAL-00064" summary="1. Добавлена обработка запуска liveData синхронно&#10;2. Добавлена обработка IOEX&#10;3. Удален делегат приватных переференсов со viewModel в связи с наружением слоя">
+      <created>1595255730528</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1595255730528</updated>
+    </task>
+    <task id="LOCAL-00065" summary="fixup! 1. Исправлен краш когда устройство не поддерживает dark mode">
+      <created>1595303314393</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1595303314394</updated>
+    </task>
+    <task id="LOCAL-00066" summary="1. Добавлены утилиты для работы с файлами&#10;2. Добавлена утили для изменения языка&#10;3. Вернул BaseAdapter">
+      <created>1595318500953</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1595318500953</updated>
+    </task>
+    <task id="LOCAL-00067" summary="1. Добавлен ViewPager с возможность wrap_content&#10;2. Добавлена функция для анимированного появления/исчезновения&#10;3. Добавлена функция для преобразованиея list в arrayList">
+      <created>1595419207778</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1595419207778</updated>
+    </task>
+    <task id="LOCAL-00068" summary="1. Расширина навигация для работы с авторизационными активити">
+      <created>1595619030127</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1595619030128</updated>
+    </task>
+    <task id="LOCAL-00069" summary="fixup! 1. Расширина навигация для работы с авторизационными активити">
+      <created>1595619141361</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1595619141361</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CoreLaunchViewModelTest_dispatcher_IO_test - 2020.07.20 at 20h 24m 48s.xml">
+      <configuration name="CoreLaunchViewModelTest.dispatcher IO test" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CoreLaunchViewModelTest - 2020.07.20 at 20h 25m 20s.xml">
+      <configuration name="CoreLaunchViewModelTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CoreLaunchViewModelTest - 2020.07.20 at 20h 31m 35s.xml">
+      <configuration name="CoreLaunchViewModelTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CoreLaunchViewModelTest - 2020.07.20 at 20h 34m 27s.xml">
+      <configuration name="CoreLaunchViewModelTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CoreLaunchViewModelTest - 2020.07.21 at 12h 58m 06s.xml">
+      <configuration name="CoreLaunchViewModelTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CoreLaunchViewModelTest - 2020.07.21 at 12h 59m 30s.xml">
+      <configuration name="CoreLaunchViewModelTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CoreLaunchViewModelTest - 2020.07.21 at 13h 57m 31s.xml">
+      <configuration name="CoreLaunchViewModelTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CoreLaunchViewModelTest - 2020.07.21 at 13h 58m 32s.xml">
+      <configuration name="CoreLaunchViewModelTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CoreLaunchViewModelTest - 2020.07.22 at 17h 50m 15s.xml">
+      <configuration name="CoreLaunchViewModelTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CoreLaunchViewModelTest - 2020.07.24 at 17h 23m 57s.xml">
+      <configuration name="CoreLaunchViewModelTest" configurationId="AndroidJUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49848023" visible="true" weight="0.32967034" />
+      <window_info id="Build Variants" order="2" sideWeight="0.50151974" side_tool="true" weight="0.32967034" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Structure" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="0" visible="true" weight="0.28367347" />
+      <window_info anchor="bottom" id="Run" order="1" weight="0.327551" />
+      <window_info anchor="bottom" id="Logcat" order="2" weight="0.32821724" />
+      <window_info anchor="bottom" id="GraphQL" order="3" weight="0.3293979" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32959184" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.50306123" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" weight="0.4489796" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.74489796" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.45" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+      <window_info anchor="right" id="Flutter Outline" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Flutter Performance" order="7" />
+      <window_info anchor="right" id="Preview" order="8" weight="0.32967034" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49848023" visible="true" weight="0.32967034" />
+      <window_info id="Build Variants" order="2" sideWeight="0.50151974" side_tool="true" weight="0.32967034" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Structure" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.28367347" />
+      <window_info anchor="bottom" id="Run" order="1" weight="0.327551" />
+      <window_info anchor="bottom" id="Logcat" order="2" weight="0.32821724" />
+      <window_info anchor="bottom" id="GraphQL" order="3" weight="0.3293979" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32959184" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.50306123" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" weight="0.4489796" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.7449823" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.45" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+      <window_info anchor="right" id="Flutter Outline" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Flutter Performance" order="7" />
+      <window_info anchor="right" id="Preview" order="8" weight="0.32967034" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="1. обнослена версия" />
+    <MESSAGE value="1. функция для открытие файла стандартными средствами приложения" />
+    <MESSAGE value="1. Обновлен OAuthInterceptor для автоматического добавление токена, если это не список исключений" />
+    <MESSAGE value="1. обновлена версия" />
+    <MESSAGE value="1. Добавлено поле для вывода ошибок" />
+    <MESSAGE value="1. Добавлена отправка событий из диалога во фрагмент и родительский диалог" />
+    <MESSAGE value="1.Добавлена навигатор для авторизационных фрагментов" />
+    <MESSAGE value="1. Добавлен multiTypeAdapter&#10;2. Добавлен новый formatter суммы" />
+    <MESSAGE value="1. Добавлен blur layout" />
+    <MESSAGE value="1. Исправлена ошибки nullPointer в формировании суммы" />
+    <MESSAGE value="1. Добавлена возможность использовать coroutine в useCase" />
+    <MESSAGE value="1. Исправлена отчистка backStack activity" />
+    <MESSAGE value="1. добавлен параметр для url" />
+    <MESSAGE value="1. исправлен пустой токен" />
+    <MESSAGE value="1. Реализованы интерцепторы&#10;2. Добавлен sh script для бота&#10;3. Добавлена проверка darkMode" />
+    <MESSAGE value="1. исправлены pipeline" />
+    <MESSAGE value="fixup! 1. исправлены pipeline" />
+    <MESSAGE value="..." />
+    <MESSAGE value="1. Исправлен краш когда устройство не поддерживает dark mode" />
+    <MESSAGE value="1. Добавлена обработка запуска liveData синхронно&#10;2. Добавлена обработка IOEX&#10;3. Удален делегат приватных переференсов со viewModel в связи с наружением слоя" />
+    <MESSAGE value="fixup! 1. Исправлен краш когда устройство не поддерживает dark mode" />
+    <MESSAGE value="1. Добавлены утилиты для работы с файлами&#10;2. Добавлена утили для изменения языка&#10;3. Вернул BaseAdapter" />
+    <MESSAGE value="1. Добавлен ViewPager с возможность wrap_content&#10;2. Добавлена функция для анимированного появления/исчезновения&#10;3. Добавлена функция для преобразованиея list в arrayList" />
+    <MESSAGE value="1. Расширина навигация для работы с авторизационными активити" />
+    <MESSAGE value="fixup! 1. Расширина навигация для работы с авторизационными активити" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixup! 1. Расширина навигация для работы с авторизационными активити" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kostynchikoff/core/1.0.1/a14eac89638defda0dc8f5bd23f9ddf21087119/core-1.0.1-sources.jar!/com/kostynchikoff/core_application/di/CoreModules.kt</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/di/CoreModules.kt</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/CoreViewModelExt.kt</url>
+          <line>130</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/core/src/test/java/com/kostynchikoff/core_application/extension/CoreViewModelExtTest.kt</url>
+          <line>119</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/core/src/test/java/com/kostynchikoff/core_application/extension/CoreViewModelExtTest.kt</url>
+          <line>137</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/core/src/test/java/com/kostynchikoff/core_application/extension/CoreViewModelExtTest.kt</url>
+          <line>141</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/os/VersionUtil.kt</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/os/VersionUtil.kt</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/kostyanchikoff/movenpublich/MainActivity.kt</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/data/network/interceptors/OAuthInterceptor.kt</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/data/network/interceptors/OAuthInterceptor.kt</url>
+          <line>129</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>unmask(str, countryCode)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>BuildConfig.IS_DEBUG</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>BuildConfig.DEBUG</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/OkhttpExt.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#61#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/CoreAndroidViewModelExt.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="161" column="3" lean-forward="true" selection-start-line="161" selection-start-column="3" selection-end-line="161" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/data/network/interceptors/OAuthInterceptor.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/callback/PermissionHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/callback/ResultLiveDataHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/data/prefs/SourcesLocalDataSource.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.1.0/9865019bbd2d95e41dede3d8ebf964aa93f97766/appcompat-1.1.0-sources.jar!/androidx/appcompat/app/AppCompatDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="162" column="65" selection-start-line="162" selection-start-column="43" selection-end-line="162" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417894">
+          <caret line="25123" column="36" selection-start-line="25123" selection-start-column="15" selection-end-line="25123" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/activities/CoreActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/data/network/Status.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ci-notify.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/test/java/com/kostynchikoff/core_application/extension/CoreViewModelExtTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="717">
+          <caret line="144" column="5" lean-forward="true" selection-start-line="144" selection-start-column="5" selection-end-line="144" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/java/net/HttpURLConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="995" column="47" selection-start-line="995" selection-start-column="28" selection-end-line="995" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/network/ApolloNetworkUtils.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/test/java/com/kostynchikoff/core_application/utils/ApolloNetworkUtilsTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="81" column="5" lean-forward="true" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/test/java/com/kostynchikoff/core_application/utils/NetworkUtilsTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="88" column="5" lean-forward="true" selection-start-line="81" selection-start-column="3" selection-end-line="88" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/network/NetworkUtils.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/data/network/ResultApi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="209" column="13" selection-start-line="209" selection-start-column="13" selection-end-line="209" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/recyclerview/BaseViewHolder.kt" />
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/recyclerview/decorator/PaddingDecorator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#83#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/viewModel/CoreViewModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/recyclerview/viewHolder/CoreViewHolder.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="e#84#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/delegates/DarkThemeDelegate.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="53" column="57" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/LiveDataExt.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/os/FileUtils.kt" />
+    <entry file="file://$PROJECT_DIR$/core/src/test/java/com/kostynchikoff/core_application/viewModel/CoreLaunchViewModelTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#54#855#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/recyclerview/BaseAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#73#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/ContextExt.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="73" column="3" lean-forward="true" selection-start-line="73" selection-start-column="3" selection-end-line="73" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/delegates/CoroutineDelegate.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1746">
+          <caret line="65" column="58" selection-start-line="65" selection-start-column="54" selection-end-line="65" selection-end-column="58" />
+          <folding>
+            <element signature="e#60#603#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/CoreViewModelExt.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding>
+            <element signature="e#61#690#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/widget/viewPagers/MatchParentViewPager.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="e#78#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/CollectionExt.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/ViewExt.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="184" column="28" selection-start-line="184" selection-start-column="28" selection-end-line="184" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/FragmentExt.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/fragments/CoreBottomSheetFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime/2.2.2/ec8a69f9f8d6ec03e84f9c08cc769e62d6a76f65/navigation-runtime-2.2.2-sources.jar!/androidx/navigation/ActivityNavigator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/ActivityExt.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="126" column="10" selection-start-line="126" selection-start-column="10" selection-end-line="126" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/data/constants/CoreConstant.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/navigation/AuthNavHostFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="85" selection-start-line="30" selection-start-column="85" selection-end-line="30" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/activities/CoreAuthorizedActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/fragments/CoreFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/presentation/ui/dialogs/CoreDialogFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="42" column="58" selection-start-line="42" selection-start-column="58" selection-end-line="42" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/res/values/attrs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/extensions/NavigationExt.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <element signature="e#61#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/navigation/AuthFragmentNavigator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="61" column="11" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="61" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/kostynchikoff/core_application/utils/navigation/AuthActivityNavigator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

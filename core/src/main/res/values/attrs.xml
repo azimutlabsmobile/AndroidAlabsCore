@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="radius" format="dimension" />
+    <attr name="color" format="color" />
+    <attr name="viewId" format="reference|integer" />
+    <attr name="imageWidth" format="dimension" />
+    <attr name="imageHeight" format="dimension" />
+    <attr name="icon" format="reference" />
+
+    <declare-styleable name="RoundedTextView">
+        <attr name="radius" />
+    </declare-styleable>
+
+    <declare-styleable name="RoundedLinearLayout">
+        <attr name="radius" />
+    </declare-styleable>
+
+    <declare-styleable name="RoundedConstraintLayout">
+        <attr name="radius" />
+    </declare-styleable>
+
+    <declare-styleable name="IconImageView">
+        <attr name="radius" />
+        <attr name="icon" />
+        <attr name="imageHeight" />
+        <attr name="imageWidth" />
+        <attr name="color" />
+    </declare-styleable>
+
+    <declare-styleable name="AuthNavHostFragment" parent=" androidx.navigation.R.styleable.NavHost">
+        <!-- Путь до авторизации (ПОЛНЫЙ ПУТЬ ДО ACTIVITY)-->
+        <attr name="pathAuthActivity" format="string" />
+        <attr name="graph" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="AuthActivityNavigator" parent="androidx.navigation.R.styleable.ActivityNavigator">
+        <attr name="android:name" />
+        <!-- нуждаеться ли  данный активити в  авторизации-->
+        <attr name="authActivity" format="boolean" />
+        <attr name="viewId" />
+    </declare-styleable>
+
+    <declare-styleable name="AuthFragmentNavigator" parent="androidx.navigation.R.styleable.FragmentNavigator">
+        <attr name="android:name" />
+
+        <!-- нуждаеться ли  данный фрагмент в  авторизации-->
+        <attr name="authFragment" format="boolean" />
+        <attr name="flowBlockingException" format="boolean" />
+        <attr name="viewId" />
+    </declare-styleable>
+
+    <declare-styleable name="BlurLayout">
+        <attr name="blur_blurRadius" format="dimension" />
+        <attr name="blur_downSampleFactor" format="float" />
+        <attr name="blur_overlayColor" format="color" />
+        <attr name="blur_cornerRadius" format="dimension" />
+    </declare-styleable>
+
+
+    <declare-styleable name="ControlSwipeViewPager">
+        <attr name="swipeEnable" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="MarginTabLayout">
+        <attr name="tabMarginStart" format="dimension" />
+        <attr name="tabMarginTop" format="dimension" />
+        <attr name="tabMarginEnd" format="dimension" />
+        <attr name="tabMarginBottom" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="GradientImageView">
+        <attr name="giv_x" format="float" />
+        <attr name="giv_y" format="float" />
+        <attr name="giv_width" format="float" />
+        <attr name="giv_height" format="float" />
+        <attr name="giv_rotate" format="float" />
+        <attr name="giv_startColor" format="color" />
+        <attr name="giv_endColor" format="color" />
+        <attr name="giv_middleColor" format="color" />
+        <attr name="giv_startOffset" format="float" />
+        <attr name="giv_middleOffset" format="float" />
+        <attr name="giv_endOffset" format="float" />
+        <attr name="giv_alpha" format="float" />
+        <attr name="radius" />
+    </declare-styleable>
+
+    <declare-styleable name="CircleBackgroundImageView">
+        <attr name="imageWidth" />
+        <attr name="imageHeight" />
+        <attr name="icon" />
+    </declare-styleable>
+</resources>

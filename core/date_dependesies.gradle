@@ -1,0 +1,3 @@
+dependencies {
+    implementation "com.jakewharton.threetenabp:threetenabp:${versions.threeTenVersion}"
+}

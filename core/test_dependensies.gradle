@@ -1,0 +1,17 @@
+dependencies {
+    def jUnit = versions.jUnitVersion
+    def espressoCore = versions.espressoCoreVersion
+    def junitExt = versions.junitExtVersion
+    def testCoreKtx = versions.testCoreKtxVerison
+    def mockito = versions.mockitoVersion
+    def coroutineTest = versions.coroutineTestVersion
+    def coreTestVersion = versions.coreTestVersion
+
+    testImplementation "junit:junit:$jUnit"
+    androidTestImplementation "androidx.test.ext:junit:$junitExt"
+    androidTestImplementation "androidx.test.espresso:espresso-core:$espressoCore"
+    androidTestImplementation "androidx.test:core-ktx:$testCoreKtx"
+    testImplementation "com.nhaarman.mockitokotlin2:mockito-kotlin:$mockito"
+    testImplementation "androidx.arch.core:core-testing:$coreTestVersion"
+    testImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutineTest"
+}
