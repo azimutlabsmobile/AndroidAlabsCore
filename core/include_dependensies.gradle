@@ -1,0 +1,4 @@
+dependencies {
+    kapt "com.github.bumptech.glide:compiler:${versions.glideVersion}"
+    implementation "com.caverock:androidsvg-aar:${versions.androidSVGVersion}"
+}

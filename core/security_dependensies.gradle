@@ -1,0 +1,4 @@
+dependencies {
+    def securePref = versions.securePrefVersion
+    implementation "com.scottyab:secure-preferences-lib:$securePref"
+}

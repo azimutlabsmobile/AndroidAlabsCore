@@ -1,0 +1,5 @@
+dependencies {
+    def version = versions.navVersion
+    implementation "androidx.navigation:navigation-fragment-ktx:$version"
+    implementation "androidx.navigation:navigation-ui-ktx:$version"
+}

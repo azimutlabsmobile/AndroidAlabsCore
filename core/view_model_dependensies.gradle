@@ -1,0 +1,5 @@
+dependencies{
+    def viewModelExt = versions.viewModelExtVersion
+
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$viewModelExt"
+}

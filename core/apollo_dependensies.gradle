@@ -1,0 +1,9 @@
+dependencies {
+    def apolloVersion = versions.apolloVersion
+    implementation("com.apollographql.apollo:apollo-runtime:$apolloVersion")
+    implementation "com.apollographql.apollo:apollo-android-support:$apolloVersion"
+    implementation "com.apollographql.apollo:apollo-coroutines-support:$apolloVersion"
+    implementation("com.apollographql.apollo:apollo-http-cache:$apolloVersion")
+    compileOnly "org.jetbrains:annotations:13.0"
+    testCompileOnly "org.jetbrains:annotations:13.0"
+}
