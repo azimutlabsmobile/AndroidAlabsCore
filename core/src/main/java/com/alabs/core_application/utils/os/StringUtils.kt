@@ -22,7 +22,7 @@ fun formatWithZeroAmount(value: String?, currency: String = CoreConstant.EMPTY):
         var value = value
         value = value?.replace(",", ".")
         value = value?.replace("[^-0-9.]".toRegex(), "")
-        formatter?.format(value?.toDouble())?.toString()?.replace(",", " ").orEmpty()
+        value = formatter?.format(value?.toDouble())?.toString()?.replace(",", " ").orEmpty()
         if (value?.first().toString() == (".")) {
             value = "0$value"
         }
