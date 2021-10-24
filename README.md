@@ -4,6 +4,6 @@ This library provides a classes, extentions, utils and .etc for fast starting an
 
 ```groovy
 dependencies {
-    implementation 'com.github.azimutlabsmobile:android-core:1.0.0'
+    implementation 'com.github.azimutlabsmobile:AndroidAlabsCore:1.0.0'
 }
 ```
