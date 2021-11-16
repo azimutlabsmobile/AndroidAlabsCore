@@ -8,6 +8,7 @@ import com.alabs.core_application.data.constants.CoreVariables.APOLLO_INTERCEPTO
 import com.alabs.core_application.data.constants.CoreVariables.BASE_APOLLO_URL
 import com.alabs.core_application.data.constants.CoreVariables.BASE_URL
 import com.alabs.core_application.data.constants.CoreVariables.BASIC_REFRESH_AUTH_HEADER
+import com.alabs.core_application.data.constants.CoreVariables.DEFAULT_ERROR_PRINTER
 import com.alabs.core_application.data.constants.CoreVariables.IMAGE_URL
 import com.alabs.core_application.data.constants.CoreVariables.IS_PRODUCTION
 import com.alabs.core_application.data.constants.CoreVariables.LOGIN_ACTIVITY
@@ -18,6 +19,7 @@ import com.alabs.core_application.data.constants.CoreVariables.REST_INTERCEPTORS
 import com.alabs.core_application.data.constants.CoreVariables.REST_NETWORK_INTERCEPTORS
 import com.alabs.core_application.data.constants.CoreVariables.URLS_OF_UNNECESSARY_BEARER_TOKEN_ENDPOINTS
 import com.alabs.core_application.data.constants.CoreVariables.WEB_URL
+import com.alabs.core_application.data.network.networkPrinter.NetworkErrorHttpPrinter
 import okhttp3.Interceptor
 import org.koin.android.ext.koin.androidContext
 import org.koin.android.ext.koin.androidLogger
@@ -162,6 +164,10 @@ class CoreBuilder(private val application: Application) {
      */
     fun allActivitiesOrientation(block: () -> Int) {
         ACTIVITIES_SCREEN_ORIENTATION = block()
+    }
+
+    fun defaultErrorPrinter(block: () -> NetworkErrorHttpPrinter<String>) {
+        DEFAULT_ERROR_PRINTER = block()
     }
 
     fun build() {

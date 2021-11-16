@@ -1,5 +1,6 @@
 package com.alabs.core_application.utils.network
 
+import com.alabs.core_application.data.constants.CoreVariables.DEFAULT_ERROR_PRINTER
 import com.google.gson.JsonParseException
 import com.alabs.core_application.data.network.networkPrinter.ErrorHttpResponse
 import com.alabs.core_application.data.network.ResultApi
@@ -29,7 +30,7 @@ suspend fun <T : Any> safeApiCall(
     return try {
         ResultApi.Success(call.invoke())
     } catch (e: Exception) {
-        handleException(e, ErrorHttpResponse())
+        handleException(e, DEFAULT_ERROR_PRINTER ?: ErrorHttpResponse())
     }
 }
 

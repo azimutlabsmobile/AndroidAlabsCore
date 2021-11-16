@@ -1,5 +1,7 @@
 package com.alabs.core_application.utils.network
 
+import com.alabs.core_application.data.constants.CoreVariables
+import com.alabs.core_application.data.constants.CoreVariables.DEFAULT_ERROR_PRINTER
 import com.apollographql.apollo.exception.ApolloHttpException
 import com.google.gson.JsonParseException
 import com.alabs.core_application.data.network.networkPrinter.ErrorHttpResponse
@@ -47,7 +49,7 @@ fun <T> Flow<T>.handleError(bloc: suspend (Int, String) -> Unit) = catch {
         is HttpException -> handleHttpFlowException(
             exception,
             bloc,
-            ErrorHttpResponse()
+            DEFAULT_ERROR_PRINTER ?: ErrorHttpResponse()
         )
         is SocketTimeoutException -> bloc(
             HttpURLConnection.HTTP_INTERNAL_ERROR,

@@ -1,6 +1,7 @@
 package com.alabs.core_application.data.constants
 
 import android.app.Activity
+import com.alabs.core_application.data.network.networkPrinter.NetworkErrorHttpPrinter
 import okhttp3.Interceptor
 
 object CoreVariables {
@@ -97,4 +98,10 @@ object CoreVariables {
      * Ориентация всех активити
      */
     var ACTIVITIES_SCREEN_ORIENTATION: Int? = null
+
+    /**
+     * Дефолтовый error printer для всех запросов
+     */
+    var DEFAULT_ERROR_PRINTER: NetworkErrorHttpPrinter<String>? = null
+
 }
