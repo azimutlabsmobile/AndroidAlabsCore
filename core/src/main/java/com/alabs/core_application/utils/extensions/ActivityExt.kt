@@ -342,7 +342,8 @@ fun Activity.showActivity(
  */
 fun Activity.showModuleActivity(
     path: String,
-    args: Bundle? = null
+    args: Bundle? = null,
+    typeAnimation: UIActivityAnimation? = null
 ) {
     try {
         val intent = Intent(this, Class.forName(path))
@@ -350,6 +351,13 @@ fun Activity.showModuleActivity(
             intent.putExtras(it)
         }
         startActivity(intent)
+
+        if (this is CoreActivity) {
+            when (typeAnimation) {
+                UIActivityAnimation.BOTTOM -> animBottomToTop()
+                UIActivityAnimation.RIGHT -> animLeftToRight()
+            }
+        }
     } catch (e: ClassNotFoundException) {
         e.printStackTrace()
     }
