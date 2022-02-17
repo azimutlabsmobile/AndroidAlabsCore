@@ -34,12 +34,6 @@ android {
     }
 }
 
-repositories {
-    maven {
-        url "http://maven.google.com/"
-    }
-}
-
 dependencies {
     implementation project(":core")
     implementation fileTree(dir: 'libs', include: ['*.jar'])
