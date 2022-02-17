@@ -8,7 +8,6 @@ import com.alabs.core_application.data.constants.CoreVariables
 import com.alabs.core_application.presentation.controllers.TrackUseApplication
 import com.alabs.core_application.presentation.controllers.TrackUseApplicationController
 import com.alabs.core_application.presentation.viewModel.CoreAuthViewModel
-import com.alabs.core_application.utils.extensions.goPendingActivity
 import com.alabs.core_application.utils.extensions.showActivityAndClearBackStack
 import org.koin.android.viewmodel.ext.android.viewModel
 
@@ -20,7 +19,6 @@ import org.koin.android.viewmodel.ext.android.viewModel
 abstract class CoreAuthorizedActivity(
     lay: Int,
     isUseLocalSession: Boolean = true,
-    private val isGoToPendingFragment: Boolean = true,
     private val isAuthCallBack: Boolean = false
 ) :
     CoreActivity(lay, isAuthCallBack),
@@ -52,8 +50,6 @@ abstract class CoreAuthorizedActivity(
     override fun onResume() {
         super.onResume()
         onResumeTrack()
-        if (isGoToPendingFragment)
-            goPendingActivity()
     }
 
     override fun onPause() {

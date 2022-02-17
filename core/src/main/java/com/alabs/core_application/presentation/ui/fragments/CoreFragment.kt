@@ -14,7 +14,6 @@ import com.alabs.core_application.presentation.model.UIValidation
 import com.alabs.core_application.presentation.viewModel.CoreAuthViewModel
 import com.alabs.core_application.utils.callback.PermissionHandler
 import com.alabs.core_application.utils.callback.ResultLiveDataHandler
-import com.alabs.core_application.utils.extensions.goPendingFragment
 import com.alabs.core_application.utils.extensions.showActivityAndClearBackStack
 import com.alabs.core_application.utils.wrappers.EventObserver
 import org.koin.android.viewmodel.ext.android.viewModel
@@ -26,7 +25,6 @@ import java.net.HttpURLConnection.*
  */
 abstract class CoreFragment(
     id: Int,
-    private val isGoToPendingFragment: Boolean = true,
     private val isAuthCallBack: Boolean = false
 ) :
     Fragment(id), ResultLiveDataHandler, PermissionHandler, IKDispatcher {
@@ -153,16 +151,6 @@ abstract class CoreFragment(
         super.onDestroyView()
         unsubscribeAuthCallBack()
     }
-
-
-    override fun onResume() {
-        super.onResume()
-        if (isGoToPendingFragment) {
-            goPendingFragment()
-        }
-
-    }
-
 
     open fun redirectLogin() = activity?.showActivityAndClearBackStack(LOGIN_ACTIVITY)
 
