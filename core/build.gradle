@@ -69,7 +69,7 @@ afterEvaluate {
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'com.alabs'
                 artifactId = 'core_application'
-                version = '1.1.0'
+                version = '1.1.3'
             }
         }
     }
