@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'maven-publish'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 apply from: '../core/apollo_dependensies.gradle'
@@ -45,4 +46,21 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     implementation "androidx.multidex:multidex:${versions.multiDexVersion}"
+}
+
+afterEvaluate {
+    publishing {
+        publications {
+            // Creates a Maven publication called "release".
+            release(MavenPublication) {
+                // Applies the component for the release build variant.
+//                from components.release
+
+                // You can then customize attributes of the publication as shown below.
+                groupId = 'com.alabs'
+                artifactId = 'core_application'
+                version = '1.1.4'
+            }
+        }
+    }
 }
